@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository hosts an on-going PyTorch-based project aimed at exploring the character variety of Seifert manifolds. One of the main objectives is to study the space of flat connections on Seifert manifolds, which involves solving a large set of nonlinear complex matrix equations. This investigation is crucial for understanding the intricate relationship between topological phases of matter in 2+1 dimensions and three dimensional geometry. The project is a spin-off from my recent research [Read the paper here](https://arxiv.org/abs/2403.03973), which proposes a novel correspondence that suggests a profound relationship between MTCs, known to characterize topological order in 2+1d, and Seifert three-manifolds. 
+This repository hosts an on-going PyTorch-based project aimed at exploring the character variety of Seifert manifolds. One of the main objectives is to study the space of flat connections on general Seifert manifolds, which involves solving a large set of nonlinear complex matrix equations. This is an important open question in geometry and topology, and play an pivotal role in the compactification of quantum field theories. This investigation is crucial for understanding the intricate relationship between topological phases of matter in 2+1 dimensions and three dimensional geometry. The project is a spin-off from my recent research [Read the paper here](https://arxiv.org/abs/2403.03973), which proposes a novel correspondence that suggests a profound relationship between MTCs, known to characterize topological order in 2+1d, and Seifert three-manifolds. 
 
 ## Objectives
 
