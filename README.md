@@ -17,8 +17,7 @@ I will update the repository regularly as our research progresses.
 Progress
 
 - I've developed a Pytorch-based solution [python code](./ML_SLN.py) for finding irreducible flat connections that significantly outpaces Mathematica's FindMinimum function in terms of performance. Key highlights include:
-
-Rapid Computation: Completes tasks in seconds that take hours or days with Mathematica.
-Proven reliability: Demonstrated through extensive testing to provide reliable and fast results, whereas traditional techniques may fail to find the optimal solution or be stuck in a local minimum.
+  * Rapid Computation: Completes tasks in seconds that take hours or days with Mathematica built-in `FindMinimum`.
+  * Proven reliability: Demonstrated through extensive testing to provide reliable and fast results, whereas traditional techniques may fail to find the optimal solution or be stuck in a local minimum.
 
 
