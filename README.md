@@ -21,7 +21,7 @@ Progress
   * Proven reliability: Demonstrated through extensive testing to provide reliable and fast results, whereas traditional techniques may fail to find the optimal solution or be stuck in a local minimum.
   * GPU support added: separate the CPU-bound tasks from GPU-bound tasks to maximize the GPU's computational power and minimize the data transfers between CPUs and GPUs.
 - A function to generate all of the candidate flat connections along with its properties.
-  * The output will be stored in pandas dataframe.
+  * The output will be stored in `pandas.dataframe`.
   * This is based on the weight lattice representation of the flat connections using Dynkin labels.
  
 
