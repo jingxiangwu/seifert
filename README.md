@@ -20,7 +20,8 @@ Progress
   * Rapid Computation: Completes tasks in seconds that take hours or days with Mathematica built-in `FindMinimum`.
   * Proven reliability: Demonstrated through extensive testing to provide reliable and fast results, whereas traditional techniques may fail to find the optimal solution or be stuck in a local minimum.
   * GPU support added: separate the CPU-bound tasks from GPU-bound tasks to maximize the GPU's computational power and minimize the data transfers between CPUs and GPUs.
-- A function [dyn_to_flat_conn.py](./dyn_to_flat_conn.py) to generate all of the candidate flat connections along with its properties.
+  * batch processing that is optimized for Cluster computation
+- A class [dyn_to_flat_conn.py](./dynkin_to_flat_conn.py) to generate all of the candidate flat connections along with its properties.
   * The output will be stored in `pandas.dataframe`.
   * This is based on the weight lattice representation of the flat connections using Dynkin labels.
  
